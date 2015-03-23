@@ -1,0 +1,36 @@
+body{
+	background-color:black;
+	background-image: url("light.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	color: white;
+	font-weight: bold;
+	font-family: georgia;
+	margin-top: 2px;
+	padding-top: 30px;
+	margin-left: 80px;
+	margin-right: 700px;
+	margin-bottom: 2px;
+	text-align: center;
+	}
+	
+.tekst{
+	border: 2px white groove;
+	background-color: #424242;
+	}
+
+img{
+	padding-bottom:50px;
+	}
+
+button{
+	position:relative;
+	left: 5px;
+	}
+	
+.dobby{
+	position: relative;
+	border: 2px double white;
+	background-color: grey;
+	}
